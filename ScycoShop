@@ -1,0 +1,53 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaGlider:REPLACE_ID"
+    ],
+    "price": Replace
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:REPLACE_ID"
+    ],
+    "price": replace
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_Dab"
+    ],
+    "price": replace
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_276_Athena_Commando_F_SniperHood",
+      "AthenaBackpack:BID_156_SniperHoodFemale"
+    ],
+    "price": replace
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaDance:EID_PraiseTheTomato"
+    ],
+    "price": replace
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
+    ],
+    "price": replace
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_261_Athena_Commando_M_RaptorArcticCamo",
+      "AthenaBackpack:BID_142_RaptorArcticCamo"
+    ],
+    "price": replace
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_097_RaptorArcticCamo"
+    ],
+    "price": replace
+  }
+}
