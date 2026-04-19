@@ -4,50 +4,48 @@
     "itemGrants": [
       "AthenaGlider:REPLACE_ID"
     ],
-    "price": Replace
+    "price": REPLACE
   },
   "daily2": {
     "itemGrants": [
       "AthenaPickaxe:REPLACE_ID"
     ],
-    "price": replace
+    "price": REPLACE
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_Dab"
+      "AthenaDance:REPLACE_ID"
     ],
-    "price": replace
+    "price": REPLACE
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_276_Athena_Commando_F_SniperHood",
-      "AthenaBackpack:BID_156_SniperHoodFemale"
+      "AthenaCharacter:REPLACE",
     ],
-    "price": replace
+    "price": REPLACE
   },
   "daily5": {
     "itemGrants": [
-      "AthenaDance:EID_PraiseTheTomato"
+      "AthenaDance:REPLACE"
     ],
-    "price": replace
+    "price": REPLACE
   },
   "daily6": {
     "itemGrants": [
-      "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
+      "AthenaCharacter:REPLACE"
     ],
-    "price": replace
+    "price": REPLACE
   },
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_261_Athena_Commando_M_RaptorArcticCamo",
-      "AthenaBackpack:BID_142_RaptorArcticCamo"
+      "AthenaCharacter:REPLACE",
     ],
-    "price": replace
+    "price": REPLACE
   },
   "featured2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_097_RaptorArcticCamo"
+      "AthenaPickaxe:REPLACE"
     ],
-    "price": replace
+    "price": REPLACE
   }
 }
