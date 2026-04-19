@@ -20,7 +20,7 @@
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:REPLACE",
+      "AthenaCharacter:REPLACE"
     ],
     "price": REPLACE
   },
@@ -38,7 +38,7 @@
   },
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:REPLACE",
+      "AthenaCharacter:REPLACE"
     ],
     "price": REPLACE
   },
